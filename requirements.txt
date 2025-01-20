@@ -1,0 +1,4 @@
+vosk
+pyaudio
+libretranslatepy
+PyQt5
